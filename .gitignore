@@ -1,5 +1,3 @@
-/cjs
-/esm
 .vscode
 
 # Logs
@@ -132,3 +130,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.github/
+/.idea/
+/.github/
